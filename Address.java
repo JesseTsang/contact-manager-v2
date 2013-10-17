@@ -1,9 +1,3 @@
-/**
- * COMP 249 - Assignment 2 - Contact Manager v.2
- * Author: Tsang Chi Kit
- * Student ID: 5692636
- */
-
 package contactManager;
 
 /**
